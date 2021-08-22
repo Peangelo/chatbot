@@ -13,7 +13,7 @@ The appearance is related to several studies that I conducted where it resulted 
 The data is stored in a **postgres** database and the entire cache is made by **redis**, in redis the database user Id is linked to the socket id.
 
 ## Clone
-Clone this repo to your local machine using https://github.com/jeaanca/forty-team <br>
+Clone this repo to your local machine using https://github.com/peangelo/forty-team-master <br>
 cd forty-team <br>
 
 ## Configuration 
@@ -36,11 +36,3 @@ Must have installed [**postgres**](https://www.postgresql.org/download/) and [**
   npm install
   npm run serve
 ```
-## Contributors
-
-| [<img src="https://avatars0.githubusercontent.com/u/38164565?s=400&u=d4fb65931ff45a914df31ca97e017bbd7f6bb04d&v=4" width="110"><br><sub>@oLucasPopov</sub>](https://github.com/oLucasPopov) | [<img src="https://avatars0.githubusercontent.com/u/62981669?s=460&u=72a72baee40f5e387a8629b957d0ce5cec385fb9&v=4" width="110"><br><sub>@wesleysaanttoss</sub>](https://github.com/wesleysaanttoss) 
-|:-:|:-:|
-
-## Autor
-| [<img src="https://avatars3.githubusercontent.com/u/30236552?v=4" width="110"><br><sub>@JeaanCa</sub>](https://github.com/jeaanca) |
-| :---: |
